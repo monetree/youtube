@@ -1,0 +1,38 @@
+#password{
+border:none;
+border-bottom:2px solid lightgrey;
+}
+#email{
+border:none;
+border-bottom:2px solid lightgrey;
+}
+.headerForm{
+	box-shadow: 2px 2px 10px silver;
+	padding:10px;
+	margin:5px;
+	background:#ea1171;
+	color:white;
+	text-align:center;
+	border-radius:10px 10px 0px 0px;
+}
+.footerForm{
+	box-shadow: 2px 2px 10px silver;
+	padding:10px;
+	margin:5px;
+	background:#ea1171;
+	color:white;
+	text-align:center;
+	border-radius:0px 0px 10px 10px;
+}
+.formControl{
+	margin:auto;
+	margin-top:-2cm;
+	padding:80px;
+	width:600px;
+	border-radius:5px;
+}
+.btn-danger{
+	background:pink;
+	color:#ea1171;
+	text-shadow:inset 2px 2px 3px;
+}
